@@ -12,3 +12,4 @@ def save_pickle(data, data_path):
         pickle.dump(data, f)
         
         
+#使用np.save和np.load进行numpy文件的管理
